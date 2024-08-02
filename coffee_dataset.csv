@@ -1,0 +1,21 @@
+Customer,Coffee Type,Quantity,Rating
+Alice,Espresso,Small,4
+Bob,Latte,Medium,5
+Charlie,Cappuccino,Large,3
+Diana,Americano,Small,2
+Eve,Mocha,Medium,4
+Alice,Espresso,Large,3
+Bob,Latte,Small,4
+Charlie,Cappuccino,Medium,5
+Diana,Americano,Large,3
+Eve,Mocha,Small,2
+Alice,Espresso,Medium,5
+Bob,Latte,Large,3
+Charlie,Cappuccino,Small,4
+Diana,Americano,Medium,5
+Eve,Mocha,Large,3
+Alice,Espresso,Small,2
+Bob,Latte,Medium,4
+Charlie,Cappuccino,Large,3
+Diana,Americano,Small,5
+Eve,Mocha,Medium,4
